@@ -61,6 +61,10 @@ After Creating Database,
 
 9th Step: Open a new tab/window in your browser and browse the Online Exam System Web Application. i.e. http://localhost/CEE/ for the student side and http://localhost/CEE/adminpanel for the admin panel.
 
+**User Login Access Information**
+Email: **rogz.nunez2013@gmail.com**
+Password: **rogz**
+
 **Admin Login Access Information**
 
 Username: admin@username
