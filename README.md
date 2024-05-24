@@ -62,8 +62,9 @@ Getting Started
 •	9th Step: Open a new tab/window in your browser and browse the Online Exam System Web Application. i.e. http://localhost/CEE/ for the student side and http://localhost/cee/adminpanel/admin/ for the admin panel.
 
 **User Login Access Information**
-•	Email: **rogz.nunez2013@gmail.com**
-•	Password: **rogz**
+•	Email: **khemrajpr@gmail.com**
+•	Password: **Khemraj@123**
+
 
 **Admin Login Access Information**
 
