@@ -59,7 +59,7 @@ Launch the Application: Open a new browser tab/window and access the Online Exam
 After Creating Database,
 
 
-9th Step: Open a new tab/window in your browser and browse the Online Exam System Web Application. i.e. http://localhost/CEE/ for the student side and http://localhost/CEE/adminpanel for the admin panel.
+9th Step: Open a new tab/window in your browser and browse the Online Exam System Web Application. i.e. http://localhost/CEE/ for the student side and http://localhost/cee/adminpanel/admin/ for the admin panel.
 
 **User Login Access Information**
 Email: **rogz.nunez2013@gmail.com**
